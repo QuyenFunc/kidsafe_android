@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162919587281",
+    "firebase_url": "https://kidsafe-control-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "kidsafe-control",
+    "storage_bucket": "kidsafe-control.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162919587281:android:2da4b367a3b82d7bd454f0",
+        "android_client_info": {
+          "package_name": "qn.app.kidsafe_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162919587281-vc5ov5u9u4dkn9ntvqdjfqm9k5lnglc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "qn.app.kidsafe_android",
+            "certificate_hash": "e30e44d5b1af7bb8067e0a8b516c7dd0bc8fc08c"
+          }
+        },
+        {
+          "client_id": "162919587281-k8v7f1n4t7a9r6j1g5m3l8q9p2b4d6h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKOdRVf-8cvfgLSV3V6UK1KtOHOaOI12E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162919587281-k8v7f1n4t7a9r6j1g5m3l8q9p2b4d6h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

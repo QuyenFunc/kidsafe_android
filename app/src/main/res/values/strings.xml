@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">KidSafe Parent</string>
+    
+    <!-- Main Activity -->
+    <string name="app_title">KidSafe - Phụ Huynh</string>
+    <string name="blocked_count">%d trang web bị chặn</string>
+    <string name="add_url">Thêm URL</string>
+    <string name="refresh">Làm mới</string>
+    
+    <!-- Add URL Dialog -->
+    <string name="dialog_add_url_title">Thêm trang web cần chặn</string>
+    <string name="url_hint">URL trang web</string>
+    <string name="url_helper">VD: facebook.com hoặc https://example.com</string>
+    <string name="url_tip">💡 Mẹo: Bạn có thể nhập tên miền (facebook.com) hoặc URL đầy đủ (https://facebook.com/gaming)</string>
+    <string name="add">Thêm</string>
+    <string name="cancel">Hủy</string>
+    
+    <!-- Delete Confirmation -->
+    <string name="delete_confirm_title">Xác nhận xóa</string>
+    <string name="delete_confirm_message">Bạn có chắc muốn xóa URL này khỏi danh sách chặn?\n\n%s</string>
+    <string name="delete">Xóa</string>
+    
+    <!-- URL Item -->
+    <string name="added_at">Thêm lúc: %s</string>
+    <string name="status_blocking">🛡️ Đang chặn</string>
+    <string name="status_paused">⏸️ Tạm dừng</string>
+    <string name="delete_url">Xóa URL</string>
+    
+    <!-- Messages -->
+    <string name="error_empty_url">Vui lòng nhập URL</string>
+    <string name="error_invalid_url">URL không hợp lệ</string>
+    <string name="error_duplicate_url">URL này đã có trong danh sách</string>
+    <string name="success_url_added">Đã thêm URL vào danh sách chặn</string>
+    <string name="success_url_deleted">Đã xóa URL khỏi danh sách chặn</string>
+    <string name="error_add_url">Lỗi thêm URL: %s</string>
+    <string name="error_delete_url">Lỗi xóa URL: %s</string>
+    <string name="error_load_data">Lỗi tải dữ liệu: %s</string>
+    
+    <!-- Empty State -->
+    <string name="empty_title">Chưa có trang web nào bị chặn</string>
+    <string name="empty_subtitle">Nhấn nút + để thêm trang web bạn muốn chặn cho con</string>
+    
+    <!-- Firebase -->
+    <string name="firebase_connecting">Đang kết nối Firebase...</string>
+    <string name="firebase_connected">Đã kết nối Firebase</string>
+    <string name="firebase_error">Lỗi kết nối Firebase</string>
+    
+    <!-- Status -->
+    <string name="status_online">Trực tuyến</string>
+    <string name="status_offline">Ngoại tuyến</string>
+    <string name="pc_connected">PC đã kết nối</string>
+    <string name="pc_disconnected">PC chưa kết nối</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_add_button">Thêm URL mới</string>
+    <string name="cd_delete_button">Xóa URL</string>
+    <string name="cd_refresh">Làm mới danh sách</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#667eea</color>
+    <color name="primary_dark_color">#5a6fd8</color>
+    <color name="secondary_color">#764ba2</color>
+    
+    <!-- Background Colors -->
+    <color name="background_color">#f5f5f5</color>
+    <color name="surface_color">#ffffff</color>
+    <color name="card_background">#ffffff</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+    
+    <!-- Status Colors -->
+    <color name="success_color">#4CAF50</color>
+    <color name="warning_color">#FF9800</color>
+    <color name="error_color">#e74c3c</color>
+    <color name="info_color">#2196F3</color>
+    
+    <!-- System Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white_alpha_80">#CCFFFFFF</color>
+    <color name="black_alpha_50">#80000000</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#667eea</color>
+    <color name="gradient_end">#764ba2</color>
+    
+    <!-- Status Chip Colors -->
+    <color name="chip_success_bg">#E8F5E8</color>
+    <color name="chip_warning_bg">#FFF3E0</color>
+    <color name="chip_error_bg">#FFEBEE</color>
+    
+    <!-- Additional Colors for Time Management -->
+    <color name="primary_text_color">#333333</color>
+    <color name="secondary_text_color">#666666</color>
+    <color name="delete_color">#e74c3c</color>
+    <color name="info_background">#E3F2FD</color>
+    
+</resources>
