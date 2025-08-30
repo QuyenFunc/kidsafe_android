@@ -26,9 +26,12 @@ cd kidsafe_android
 
 2. Mở project trong Android Studio
 
-3. Cấu hình Firebase:
-   - Thêm file `google-services.json` vào thư mục `app/`
-   - Làm theo hướng dẫn trong file `firebase-setup.md`
+3. Cấu hình Firebase (Production):
+   - Tạo Firebase project tại [Firebase Console](https://console.firebase.google.com/)
+   - Tải file `google-services.json` từ Firebase Console
+   - Đặt file `google-services.json` vào thư mục `app/`
+   - Làm theo hướng dẫn chi tiết trong file `firebase-setup.md`
+   - **Lưu ý:** Ứng dụng được cấu hình để kết nối đến Firebase production, không phải emulator
 
 4. Build và chạy ứng dụng
 
